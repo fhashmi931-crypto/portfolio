@@ -73,6 +73,14 @@ section{
     margin: 15px auto;
     max-width: 300px;
     border-radius: 10px;
+    text-align:center;
+    box-shadow:04px 10px rgba(0,0,0,0,3)
+}
+.projects-container{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
 }
 
 /* ===== CONTACT ===== */
