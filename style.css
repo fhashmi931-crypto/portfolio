@@ -67,21 +67,22 @@ section{
 }
 
 /* ===== PROJECT CARDS (basic clean look) ===== */
-.project-card{
-    background: #111827;
-    padding: 20px;
-    margin: 15px auto;
-    max-width: 300px;
-    border-radius: 10px;
-    text-align:center;
-    box-shadow:04px 10px rgba(0,0,0,0,3)
-    color:white;
-}
 .projects-container{
     display: flex;
     justify-content: center;
     gap: 20px;
     flex-wrap: wrap;
+    padding: 20px;
+}
+
+.project-card{
+    background: #111827;
+    color: #e2e8f0;
+    padding: 20px;
+    width: 220px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.4);
 }
 
 /* ===== CONTACT ===== */
