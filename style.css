@@ -3,14 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
+<style>
 
 body{
     border:5px solid res;
     font-family: Arial, sans-serif;
-    background-color: yellow;   /* deep dark navy */
+    background-color: red;   /* deep dark navy */
     color: #e5e7eb; 
     margin:0;             /* soft white */
 }
+</style>
 
 /* HEADER */
 header{
