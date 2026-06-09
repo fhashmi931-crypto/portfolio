@@ -234,4 +234,11 @@ nav a:hover{
     margin-top: -15px;
     margin-bottom: 20px;
 }
+button:hover{
+    background: #0ea5e9;
+    transform: scale(1.05);
+}.project-card:hover{
+    transform: translateY(-5px);
+    transition: 0.3s;
+}
 
